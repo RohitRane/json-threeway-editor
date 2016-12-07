@@ -1,0 +1,40 @@
+{
+  "generator-fountain-react": {
+    "version": "1.0.0-rc1",
+    "props": {
+      "framework": "react",
+      "modules": "webpack",
+      "js": "babel",
+      "ci": [],
+      "css": "scss",
+      "resolved": "/home/kpatra/.local/install/node/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-react/generators/app/index.js",
+      "namespace": "fountain-react",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "sample": "todoMVC",
+      "router": "router"
+    }
+  },
+  "generator-fountain-angular2": {
+    "version": "1.0.0-rc1",
+    "props": {
+      "framework": "angular2",
+      "modules": "webpack",
+      "js": "typescript",
+      "ci": [],
+      "css": "scss",
+      "resolved": "/home/kpatra/.local/install/node/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-angular2/generators/app/index.js",
+      "namespace": "fountain-angular2",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "sample": "techs",
+      "router": "router"
+    }
+  }
+}
